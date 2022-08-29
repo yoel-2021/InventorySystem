@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwdji7TXkM0GiAA77dRmSRAAAAAACAAAAAAAQZgAAAAEAACAAAACPhRqWsWOj0PJZjx9q/viU7RgOB1IIOksH7E67o5DTngAAAAAOgAAAAAIAACAAAABzSgJFKi+Sas06KXfn2b+aSE2bpiEOjew4U640ltsVEYAAAABJwg4Ye6IMxFJtmKxP5qkcKZByQxBIwiiCI0+GCXbwBW8Nlw7VG2KHEwoGHcNkZ/s6n25FS3BzvnodHLqS2ZaPbGJ5b4M9UWpRdkBvtAs1kSSpjo+ktgWMc0nDrjnXFO9a7sDvktQSaR5Akc6zhXa9hyzuIdd2XWs4EQvg76LI3EAAAAD2kfBV3fD6K1OSTRYVkjt2E/+d0MEie+MeC8kXNkujcUearbOmwDH9mXZCeI9I2jfO+ah7/p/7TJS7H7lcJYyB</EncryptedPassword>
+    <History>True|2022-08-28T18:30:02.2337508Z;True|2022-08-28T20:27:59.5627877+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=YOEL\SQLEXPRESS%3bInitial Catalog=InventoryManagement%3bIntegrated Security=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
